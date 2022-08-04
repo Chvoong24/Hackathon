@@ -3,7 +3,7 @@
 }
 h1 {
     font-family: Papyrus, sans-serif;
-    font-size: 40px;
+    font-size: 55px;
   }
 
   
@@ -15,9 +15,14 @@ h1 {
   }
   #face {
       position: relative;
-      bottom: -50px; 
+      bottom: -170px; 
+  }
+  #your {
+      position: relative; 
+      bottom: -110px
   }
   #foods {
       position: relative;
-      bottom: 50px;
+      bottom: -50px;
   }
+  
