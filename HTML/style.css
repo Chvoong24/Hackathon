@@ -1,3 +1,13 @@
 #topnav {
     float: right;
 }
+h1 {
+    font-family: Papyrus, sans-serif;
+    font-size: 50px;
+    color: pink;
+  }
+  
+  #allergies {
+    float: right;
+  }
+  #title {}
