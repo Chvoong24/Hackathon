@@ -15,6 +15,7 @@
   </head>
   <body>
    <center> <h1> Unknown Title </h1> </center> 
+   <div id="body">
     <hr> 
     <label for="Alleriges">Choose your alleriges:</label>
 <select name="alleriges" id="alleriges">
@@ -27,6 +28,7 @@
       <option value="Tree nuts">Tree nuts</option>
       <option value="Sesame">Sesame</option>
 </select>
+  </div>
 
 <div id="topnav">
     <input type="text" placeholder="Search for your dish!">
@@ -34,6 +36,6 @@
 
 
   
-
+  </body>
   </body>
 </html>
