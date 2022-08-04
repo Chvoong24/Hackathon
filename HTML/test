@@ -9,7 +9,7 @@
     <title>Title</title>
       
 
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="style.css" />
 
     <script src="/script.js" defer></script>
   </head>
@@ -26,9 +26,13 @@
     <option value="Dairy">Dairy</option>
       <option value="Tree nuts">Tree nuts</option>
       <option value="Sesame">Sesame</option>
-
-
 </select>
+
+<div id="topnav">
+    <input type="text" placeholder="Search for your dish!">
+  </div>
+
+
   
 
   </body>
