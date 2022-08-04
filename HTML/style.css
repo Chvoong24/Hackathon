@@ -31,13 +31,13 @@ h1 {
       bottom: 50px;
   }
 
-  #cheesecake {
-    
-  }
   body {
-    background: linear-gradient(to bottom, #fff2df 0%, #f1e3dd 50%, #f9ccac 100%) 
-}
+    background: linear-gradient(to bottom, #fff2df 0%, #f1e3dd 50%, #f9ccac 100%)
+  }
 
+  #Allowed_to_eat {
+    float:right;
+  }
 #cheesecake{
     width:300px;
     height: 300px;
@@ -67,4 +67,11 @@ hr{
     border-radius: 5px;
 
 
+}
+#food_photos{
+    width:300px;
+    height: 300px;
+    border-radius: 10%;
+    border:3.5px solid #C98B3D;
+    object-fit: cover;
 }
