@@ -36,7 +36,7 @@ h1 {
   }
 
   #Allowed_to_eat {
-    float:right;
+    position: right;
   }
 #cheesecake{
     width:300px;
@@ -62,7 +62,8 @@ h1 {
     object-fit: cover;
 }
 
-hr{
+#food_photos {
+    width: 300px;
     border: 2px solid  #e67300;
     border-radius: 5px;
 
