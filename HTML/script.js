@@ -1,1 +1,4 @@
-alert('uahusy8ady8a')
+element.addEventListener("click", myFunction);
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World"; }
