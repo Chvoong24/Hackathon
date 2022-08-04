@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Title</title>
+      
+
+    <link rel="stylesheet" href="/style.css" />
+
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+   <center> <h1> Unknown Title </h1> </center> 
+    <hr> 
+    <label for="Alleriges">Choose your alleriges:</label>
+<select name="alleriges" id="alleriges">
+    <option value="Soy">Soy</option>
+  <option value="Milk">Milk</option>
+  <option value="Peanut">Peanut</option>
+  <option value="Wheat">Wheat</option>
+    <option value="Shellfish">Shellfish</option>
+    <option value="Dairy">Dairy</option>
+      <option value="Tree nuts">Tree nuts</option>
+      <option value="Sesame">Sesame</option>
+
+
+</select>
+  
+
+  </body>
+</html>
