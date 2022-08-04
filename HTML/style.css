@@ -8,7 +8,7 @@
 }
 h1 {
     font-family: Papyrus, sans-serif;
-    font-size: 40px;
+    font-size: 55px;
   }
 
   
@@ -16,11 +16,15 @@ h1 {
     float: right;
   }
   #title {
-    color: pink;
+    color: pink; 
   }
   #face {
       position: relative;
-      bottom: -50px; 
+      bottom: -10px; 
+  }
+  #your {
+      position: relative; 
+      bottom: -20px
   }
   #foods {
       position: relative;
@@ -29,4 +33,7 @@ h1 {
 
   #cheesecake {
     
+  }
+  body {
+    background: linear-gradient(to bottom, #fff2df 0%, #f1e3dd 50%, #f9ccac 100%)
   }
