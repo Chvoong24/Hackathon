@@ -1,6 +1,11 @@
 #topnav {
     float: right;
 }
+#body{
+    border-style: solid;
+    border: 100px;
+    border-color: red;
+}
 h1 {
     font-family: Papyrus, sans-serif;
     font-size: 55px;
@@ -11,7 +16,7 @@ h1 {
     float: right;
   }
   #title {
-      color: pink;
+    color: pink;
   }
   #face {
       position: relative;
