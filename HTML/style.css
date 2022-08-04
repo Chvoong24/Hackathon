@@ -41,3 +41,34 @@ h1 {
   #Allowed_to_eat {
     float:right;
   }
+#cheesecake{
+    width:300px;
+    height: 300px;
+    border-radius: 10%;
+    border:3.5px solid #C98B3D;
+    object-fit: cover;
+}
+
+#noodle{
+    width:300px;
+    height: 300px;
+    border-radius: 10%;
+    border:3.5px solid #C98B3D;
+    object-fit: cover;
+}
+
+#cookies{
+    width:300px;
+    height: 300px;
+    border-radius: 10%;
+    border:3.5px solid #C98B3D;
+    object-fit: cover;
+}
+
+#food_photos {
+    width:300px;
+    height: 300px;
+    border-radius: 10%;
+    border:3.5px solid #C98B3D;
+    object-fit: cover;
+}
