@@ -37,3 +37,7 @@ h1 {
   body {
     background: linear-gradient(to bottom, #fff2df 0%, #f1e3dd 50%, #f9ccac 100%)
   }
+
+  #Allowed_to_eat {
+    float:right;
+  }
